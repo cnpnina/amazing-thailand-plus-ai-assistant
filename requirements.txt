@@ -1,0 +1,9 @@
+prefect
+exa-py
+crawl4ai
+pythainlp
+python-crfsuite
+qdrant-client
+sentence-transformers
+google-genai
+numpy

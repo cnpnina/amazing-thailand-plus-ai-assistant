@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build / packaging
+build/
+dist/
+
+# Runtime data
+.qdrant_local/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local docs (not for repo)
+System Architecture.md
