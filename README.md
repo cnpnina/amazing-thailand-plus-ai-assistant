@@ -1,0 +1,1 @@
+# amazing-thailand-plus-ai-assistant
